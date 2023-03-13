@@ -1,3 +1,1 @@
 # collaboration
-
-Git is super!
